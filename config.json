@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": [],
+        "ACTIVITY_TEXT": "Vista Public",
+        "GUILD_ID": "824990455363010609",
+        "VOICE_CHANNEL": "824990456000938002",
+        "MIN_STAFF_ROLE": "832282179366289440"
+    },
+    "FILES": {
+        "WELCOME": "",
+        "STAFF": "default_files/mixli.mp3"
+    },
+    "TOKEN": "ODI4MjMxMzM1MjU2NTIyNzcy.YGmkig.ZynlVA8alZifT4tV-xEE8IIrgWc"
+}
